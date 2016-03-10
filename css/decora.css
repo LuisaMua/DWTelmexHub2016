@@ -1,0 +1,82 @@
+body
+{
+  background-color: #FF5749;
+  font-size: 16px;
+}
+.seccionInformacion
+{
+ position: relative;
+}
+.estiloMenu
+{
+
+  color: white;
+ font-size: 1.5em;
+ display: inline-block;
+
+}
+#listaPrincipal
+{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  background-color: #90ba6f;
+
+
+}
+.envolturaTema
+{
+  margin: 0;
+  background-color: #d0aef4;
+}
+#logo
+{
+  display: inline-block;
+  margin: 0;
+  float: left;
+
+}
+#temaPrincipal
+{
+  display: inline-block;
+  color: green;
+  background-color: #d0aef4;
+  margin: 0;
+  font-size: 3.125em;
+
+}
+#contenidoPrincipal
+{
+  background-color: #af7ba6;
+  clear:both;
+  position: relative;
+}
+.imagenArticulo, .articulos
+{
+
+  display: inline-block;
+
+}
+.imagenArticulo
+{
+  
+  width: 49%;
+  background-color: white;
+
+}
+.articulos
+{
+  margin: 0;
+  width: 49%;
+  font-size: 1.9em;
+  color: white;
+
+
+
+
+}
+ #pieLeyenda
+ {
+   margin: 0;
+   background-color: #f649a6;
+ }
